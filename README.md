@@ -119,6 +119,6 @@ To run the notebooks, install the following dependencies:
 - Matplotlib
 - Seaborn
 - PyTorch
-You can install these dependencies using pip or conda.
+  
 ## Contact: 
 - [satheeshbhukyaa@gmail.com]
