@@ -113,8 +113,11 @@ if __name__ == '__main__':
 
 ## Dependencies
 To run the notebooks, install the following dependencies:
-```bash
-pip install torch torchvision timm tensorflow keras numpy matplotlib albumentations scikit-learn
-```
----
+-Python 3.x
+- Jupyter Notebook
+- NumPy
+- Matplotlib
+- Seaborn
+- PyTorch
+You can install these dependencies using pip or conda.
 **Contact:** [satheeshbhukyaa@gmail.com]
