@@ -120,4 +120,5 @@ To run the notebooks, install the following dependencies:
 - Seaborn
 - PyTorch
 You can install these dependencies using pip or conda.
-**Contact:** [satheeshbhukyaa@gmail.com]
+## Contact: 
+- [satheeshbhukyaa@gmail.com]
